@@ -9,4 +9,4 @@ Expected [1, 2, 3, 4, 5 ,6]
 Given [1, 2, 3, 5, 6] and 5
 
 
-![title](https://github.com/401d9/data_structures_and_algorithms/blob/master/assets/whiteboard1.jpg)
+![title]https://github.com/401d9/data_structures_and_algorithms/blob/array_shift/assets/whiteboard1.jpg)
