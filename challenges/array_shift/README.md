@@ -5,7 +5,7 @@ Take an array, find the middle of it, and insert a new value
 
 ## Solution
 <!-- Embedded whiteboard image -->
-Expected [1, 2, 3, 4, 5 ,6]
+Expected [1, 2, 3, 4, 5 ,6] <br>
 Given [1, 2, 3, 5, 6] and 5
 
 
