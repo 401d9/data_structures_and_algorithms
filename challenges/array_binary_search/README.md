@@ -7,4 +7,4 @@ This takes a sorted array, finds the middle of the array and and checks if that 
 Write a function called BinarySearch which takes in 2 parameters: a sorted array and the search key. Without utilizing any of the built-in methods available to your language, return the index of the array’s element that is equal to the search key, or -1 if the element does not exist.
 ## Solution
 <!-- Embedded whiteboard image -->
-![title](https://github.com/401d9/data_structures_and_algorithms/blob/array_shift/assets/array_binary_search)
+![title](https://github.com/401d9/data_structures_and_algorithms/blob/array-binary-search/assets/array_binary_search.jpg)
