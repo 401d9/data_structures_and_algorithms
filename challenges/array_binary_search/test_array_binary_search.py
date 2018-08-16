@@ -2,10 +2,10 @@ from .array_binary_search import binary_search
 import test
 
 
-def test_NaN():
-    expected = 'unexpected entry'
-    actual = binary_search([1, 2, 4, 6, 8, 10, 34], 'a')
-    assert expected == actual
+# def test_NaN():
+#     expected = 'unexpected entry'
+#     actual = binary_search([1, 2, 4, 6, 8, 10, 34], 'a')
+#     assert expected == actual
 
 
 def test_out_array():
