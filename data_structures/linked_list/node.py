@@ -4,7 +4,7 @@ class Node:
         self._next = _next
 
     def __str__(self):
-        pass
+        return f'{self.val}'
 
     def __repr__(self):
         return f'<Node | Val: {self.val} | Next: {self._next}>'

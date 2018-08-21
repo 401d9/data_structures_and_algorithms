@@ -16,13 +16,13 @@ class LinkedList(object):
     def __len__(self):
         return self._length
 
-    def __iter__(self):
-        pass
+    # def __iter__(self):
+    #     pass
+    #
+    # def __next__(self):
+    #     pass
 
-    def __next__(self):
-        pass
-
-    def insert(self, val):
+    def insert(self, val: Any) -> Node:
         pass
 
     # def includes(self, val: str, data: int) -> bool:
