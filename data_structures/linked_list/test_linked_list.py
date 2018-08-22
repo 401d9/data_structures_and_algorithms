@@ -10,10 +10,10 @@ def empty_list():
 @pytest.fixture
 def small_list():
     ll = LinkedList()
-    ll.insert(1)
-    ll.insert(2)
-    ll.insert(3)
-    ll.insert(4)
+    ll.append(1)
+    ll.append(2)
+    ll.append(3)
+    ll.append(4)
     return ll
 
 
