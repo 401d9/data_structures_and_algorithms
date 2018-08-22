@@ -17,5 +17,5 @@ Initial Linked list: (Node:head) --> (val: 1, next: ) --> (val: 2, next: ) --> (
 
 
 
-![title](https://github.com/401d9/data_structures_and_algorithms/blob/array_shift/assets/linked_list_1.jpg)
+![title](https://github.com/401d9/data_structures_and_algorithms/blob/array_shift/assets/kth-ll.jpg)
 
