@@ -4,13 +4,12 @@ class Node:
         self.data = data
         self.left = left
         self.right = right
-        self.parent = None
 
-        def __str__(self):
-            pass
+    def __str__(self):
+        pass
 
-        def __repr__(self):
-            pass
+    def __repr__(self):
+        pass
 
 
 class BinaryTree:
@@ -27,30 +26,28 @@ class BinaryTree:
         pass
 
     def in_order(self, callable=lambda node: print(node)):
+        """Go left, visit, then go right
         """
-        Go left, visit, go right
-        """
-
         def _walk(node=None):
             if node is None:
                 return
 
-            # Go Left
-            if node.left is not None:
+            # Go left
+            if node.left:
                 _walk(node.left)
 
+            # Visit
             callable(node)
-            # Go Right
-            if node.right is not None:
+
+            # Go right
+            if node.right:
                 _walk(node.right)
 
         _walk(self.root)
 
     def pre_order(self, callable=lambda node: print(node)):
+        """Visit, go left, then right
         """
-        Visit, then go left, then right!
-        """
-
         def _walk(node=None):
             if node is None:
                 return
@@ -58,31 +55,29 @@ class BinaryTree:
             # Visit
             callable(node)
 
-            # Go Left
-            if node.left is not None:
+            # Go left
+            if node.left:
                 _walk(node.left)
 
-            # Go Right
-            if node.right is not None:
+            # Go right
+            if node.right:
                 _walk(node.right)
 
         _walk(self.root)
 
     def post_order(self, callable=lambda node: print(node)):
+        """Go left, then right, Visit
         """
-        Go Left, go Right, then visit!
-        """
-
         def _walk(node=None):
             if node is None:
                 return
 
-            # Go Left
-            if node.left is not None:
+            # Go left
+            if node.left:
                 _walk(node.left)
 
-            # Go Right
-            if node.right is not None:
+            # Go right
+            if node.right:
                 _walk(node.right)
 
             # Visit
