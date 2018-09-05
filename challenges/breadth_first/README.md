@@ -1,6 +1,6 @@
 # Breadth First Traversal
 <!-- Short summary or background information -->
-Take an array, find the middle of it, and insert a new value
+List in order every Node in a binary tree from left to right. 
 
 
 ## Solution
