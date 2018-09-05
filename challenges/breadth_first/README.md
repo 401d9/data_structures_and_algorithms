@@ -10,6 +10,6 @@ Write a breadth first traversal method which takes a Binary Tree as its unique i
 
 
 
-![title](https://github.com/401d9/data_structures_and_algorithms/blob/master/assets/array_binary_search.jpg)
+![title](https://github.com/401d9/data_structures_and_algorithms/blob/master/assets/breadth_traversal.jpg)
 
 
