@@ -1,1 +1,0 @@
-This needs to be updated with the new img in the assets folder.
