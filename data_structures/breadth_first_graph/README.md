@@ -11,4 +11,4 @@ Refer to image for cleared input/solution.
 
 
 
-![title](https://github.com/401d9/data_structures_and_algorithms/blob/array_shift/assets/breadth-first-graph.png)
+![title](https://github.com/401d9/data_structures_and_algorithms/blob/master/assets/breadth-frist-graph.png)
