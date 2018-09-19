@@ -18,4 +18,4 @@ Output: False, $0
 
 
 
-![title](https://github.com/401d9/data_structures_and_algorithms/blob/master/assets/get_edge.jpg)
+![title](https://github.com/401d9/data_structures_and_algorithms/blob/master/assets/get-edge.jpg)

@@ -1,17 +1,14 @@
-# Get Edges 
+# Breadth First Graph 
 <!-- Short summary or background information -->
-Write a function based on the specifications above, which takes in a graph, and an array of city names.
-Return whether the full trip is possible with direct flights, and how much it would cost.
+From a starting Node use a breadth first traversal and return a collection of nodes in order they were visited. 
+
 
 ## Solution
 <!-- Embedded whiteboard image -->
-Input: Flight From A--$10-->B
-Output: True, $10
-Input: Flight From A--$10-->B--$34-->C
-Output: True, $44
+Return every node of a given node graph in a list. 
+Refer to image for cleared input/solution.
 
-Input: Flight From A--No Connection-->B
-Output: False, $0
 
-![title](https://github.com/401d9/data_structures_and_algorithms/blob/master/assets/get-edge.jpg)
 
+
+![title](https://github.com/401d9/data_structures_and_algorithms/blob/master/assets/breadth-frist-graph.png)
