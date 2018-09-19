@@ -1,21 +1,8 @@
-# Get Edges 
-<!-- Short summary or background information -->
-Write a function based on the specifications above, which takes in a graph, and an array of city names.
-Return whether the full trip is possible with direct flights, and how much it would cost.
+# Breadth First Graph Traversal.
+This class method traverses a pre-made graph given an initial input node, using a depth first approach.
 
-
+## Challenge
+Create a method that uses depth first traversal on an acyclical graph given an input node that exists on the graph.
 
 ## Solution
-<!-- Embedded whiteboard image -->
-Input: Flight From A--$10-->B
-Output: True, $10
-Input: Flight From A--$10-->B--$34-->C
-Output: True, $44
-
-Input: Flight From A--No Connection-->B
-Output: False, $0
-
-
-
-
-![title](https://github.com/401d9/data_structures_and_algorithms/blob/master/assets/get-edge.jpg)
+![Whiteboarding](../../assets/graph-depth-first.jpg)
