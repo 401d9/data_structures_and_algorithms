@@ -1,8 +1,9 @@
-# Breadth First Graph Traversal.
-This class method traverses a pre-made graph given an initial input node, using a depth first approach.
+# Repeat Word Hashtable.
+This function creates a key for each word in a string until a duplicate is found.
 
 ## Challenge
-Create a method that uses depth first traversal on an acyclical graph given an input node that exists on the graph.
+Write a function that accepts a lengthy string parameter.
+Return the first word to occur more than once in that provided string.
 
 ## Solution
-![Whiteboarding](../../assets/graph-depth-first.jpg)
+![Whiteboarding](../../assets/repeat_word.jpg)
